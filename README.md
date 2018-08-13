@@ -3,11 +3,9 @@ Exploratory Data Analysis for the Red Wine Quality Dataset
 
 ### Contents
 
-- EDA Report (RMD)
+- [EDA Report](https://oaweigand.github.io/Red-Wine-Exploration/)
 
 Project to demonstrate use of R, apply exploratory data analysis techniques to explore relationships in one variable to multiple variables, and to explore a selected data set for distributions, outliers, and anomalies.
-
-- [EDA Report (HTML)](https://oaweigand.github.io/Red-Wine-Exploration/)
 
 ### References
 - [ggplot2 Documentaion and cheat sheet](https://ggplot2.tidyverse.org/index.html)
